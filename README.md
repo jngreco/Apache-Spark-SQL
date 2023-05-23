@@ -20,7 +20,7 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
    * What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-6. Cache your temporary table home_sales.
+6. Cache your temporary table **home_sales**.
 
 7. Check if your temporary table is cached.
 
@@ -32,8 +32,8 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 11. Run the query that filters out the view ratings with an average price of **greater than or equal to $350,000**. Determine the runtime and compare it to uncached runtime.
 
-12. Uncache the `home_sales` temporary table.
+12. Uncache the **home_sales** temporary table.
 
-13. Verify that the home_sales temporary table is uncached using PySpark.
+13. Verify that the **home_sales** temporary table is uncached using PySpark.
 
-14. Download your `Home_Sales.ipynb` file and upload it into your "Home_Sales" GitHub repository.
+14. Download your `Home_Sales.ipynb` file and upload it into your GitHub repository.
